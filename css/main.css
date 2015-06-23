@@ -47,10 +47,12 @@ span.red{
 	color:#fff;
 	background: #F59402;
 }
-.projects .row:first-child{
-	border-bottom:1px solid #eee;
+.projects .row{
 	padding-bottom:30px;
 	margin-bottom:30px;
+}
+.projects .row:first-child{
+	border-bottom:1px solid #eee;
 }
 footer{
 	background:#f6f6f6;
