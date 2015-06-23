@@ -1,0 +1,34 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.jumbotron{
+	background:#4084B1;
+	color:#F2EFF3;
+}
+.jumbotron h1{
+	color:#C3D3E3;
+}
+span.red{
+	color:#E32E25;
+}
+.prof_pic{
+	border-radius:100%;
+	border:7px solid #fff;
+	box-shadow:0 0 3px #ccc;
+	float:left;
+	margin:0 40px 40px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
