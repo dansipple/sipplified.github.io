@@ -14,8 +14,7 @@ h1,h2,h3,h4,h5,h6 {
 	font-weight:400;
 }
 .jumbotron{
-	/* background:#4084B1;*/
-	background: url('file:///Users/philfremont-smith/Documents/websites/sipple.me/img/bg_pic.jpg') center center;
+	background: url('/img/bg_pic.jpg') center center;
 	background-size: cover;
 	color:#F2EFF3;
 	border-bottom:3px solid #eee;
@@ -56,7 +55,7 @@ span.red{
 footer{
 	background:#f6f6f6;
 	padding:30px;
-	color:#999;
+	border-top:3px solid #eee;
 }
 
 
